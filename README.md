@@ -51,3 +51,11 @@ as observed in the graph of precision , recall , f1 and accuracy the graph takes
 
 #### The model's performance and attention patterns across layers support the idea that some parts (heads) within the model pay closer attention to specific words in the input. Notably, the middle layers perform best, suggesting they're crucial for capturing both spelling and meaning. This might involve considering both individual words (local information) and the overall sentence structure (global information). Overall, the results show that the transformer model learns to link spelling patterns to correct or incorrect labels. It accomplishes this by using attention mechanisms to focus on important words at different levels of detail.
 ![image](https://github.com/suyashsethia/interpretability-language-models/assets/95227702/1a5643bd-7a91-427f-97fc-7a483d8a1ebf)
+![image](https://github.com/suyashsethia/interpretability-language-models/assets/95227702/9ef57cb5-ce4f-4b9a-b478-d806e5fbc972)
+![image](https://github.com/suyashsethia/interpretability-language-models/assets/95227702/d2756485-cac1-41e5-a99c-214e251c7e0f)
+![image](https://github.com/suyashsethia/interpretability-language-models/assets/95227702/9f582b71-e064-426a-8cdf-cb916ba03ae2)
+![image](https://github.com/suyashsethia/interpretability-language-models/assets/95227702/72fcbbaa-35e9-48af-948e-dda0086204c9)
+
+
+
+
